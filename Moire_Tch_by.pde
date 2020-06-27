@@ -1,6 +1,3 @@
-//BIG FAT COMMENT IN THE BEGINNING
-
-
 import promidi.*;
 
 MidiIO midiIO;
